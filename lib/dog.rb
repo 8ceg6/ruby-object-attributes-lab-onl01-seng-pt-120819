@@ -8,5 +8,5 @@ class Dog
   def name
     @a_dogs_name
   end
-  
+  DOG.new= "Fido"
 end 
